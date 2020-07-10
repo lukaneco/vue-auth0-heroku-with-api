@@ -1,0 +1,5 @@
+{
+  "domain": "lucasain.us.auth0.com",
+  "audience": "https://api.ipify.org?format=json",
+  "clientId": "091s5zKqHJ6DlQJ4DVAQH0agRblqbqXN"
+}
